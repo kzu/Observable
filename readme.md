@@ -14,9 +14,3 @@
 
 > [!CAUTION]
 > This is a caution
-
-> [!RECOMMENDATION]
-> This is a recommendation
-
-
-
