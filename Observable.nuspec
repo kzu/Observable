@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Observable</id>
+    <version>0.2.0</version>
+    <authors>Daniel Cazzulino</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/devlooped/Observable</projectUrl>
+    <description>Automatic implementation of INotifyPropertyChanged, INotifyPropertyChanging, IChangeTracking and other ComponentModel interfaces with zero run-time dependencies via source generators.</description>
+    <copyright>Copyright (C) Daniel Cazzulino and Contributors. All rights reserved.</copyright>
+    <readme>readme.md</readme>
+    <tags>dotnet csharp</tags>
+  </metadata>
+  <files>
+    <file src="readme.md" target="readme.md" />
+  </files>
+</package>
